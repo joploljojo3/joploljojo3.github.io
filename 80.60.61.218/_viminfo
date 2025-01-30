@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :x
-|2,0,1738142711,,"x"
+|2,0,1738143147,,"x"
+:cd $VIMCONFIG
+|2,0,1738143047,,"cd $VIMCONFIG"
 
 # Search String History (newest to oldest):
 
@@ -36,12 +38,24 @@
 # Jumplist (newest first):
 -'  6  11  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
 |4,39,6,11,1738142711,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  6  11  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,6,11,1738142711,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,1,0,1738142702,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
 -'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
 |4,39,1,0,1738142702,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
 -'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
 |4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
 -'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
 |4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,1,0,1738142505,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,1,0,1738142505,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
 -'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
 |4,39,1,0,1738142505,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
 -'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
