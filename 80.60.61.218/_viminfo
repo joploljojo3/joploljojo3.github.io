@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :x
-|2,0,1738143147,,"x"
+|2,0,1738230661,,"x"
 :cd $VIMCONFIG
 |2,0,1738143047,,"cd $VIMCONFIG"
 
@@ -30,16 +30,94 @@
 |3,1,36,0,1,0,1738142614,":"
 
 # File marks:
-'0  6  11  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
-|4,48,6,11,1738142711,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
-'1  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
-|4,49,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+'0  3  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\index.markdown
+|4,48,3,0,1738230661,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\index.markdown"
+'1  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\index.html
+|4,49,1,0,1738230641,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\index.html"
+'2  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\test.txt
+|4,50,1,0,1738230433,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\test.txt"
+'3  6  11  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,51,6,11,1738142711,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+'4  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,52,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
 
 # Jumplist (newest first):
+-'  3  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\index.markdown
+|4,39,3,0,1738230661,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\index.markdown"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\index.markdown
+|4,39,1,0,1738230653,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\index.markdown"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\index.html
+|4,39,1,0,1738230641,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\index.html"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\index.html
+|4,39,1,0,1738230641,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\index.html"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\test.txt
+|4,39,1,0,1738230433,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\test.txt"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\test.txt
+|4,39,1,0,1738230433,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\test.txt"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\test.txt
+|4,39,1,0,1738230433,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\test.txt"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\test.txt
+|4,39,1,0,1738230433,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\test.txt"
 -'  6  11  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
 |4,39,6,11,1738142711,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
 -'  6  11  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
 |4,39,6,11,1738142711,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  6  11  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,6,11,1738142711,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  6  11  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,6,11,1738142711,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  6  11  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,6,11,1738142711,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  6  11  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,6,11,1738142711,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  6  11  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,6,11,1738142711,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  6  11  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,6,11,1738142711,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  6  11  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,6,11,1738142711,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  6  11  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,6,11,1738142711,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  6  11  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,6,11,1738142711,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  6  11  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,6,11,1738142711,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  6  11  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,6,11,1738142711,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  6  11  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,6,11,1738142711,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  6  11  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,6,11,1738142711,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  6  11  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,6,11,1738142711,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,1,0,1738142702,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,1,0,1738142702,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,1,0,1738142702,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,1,0,1738142702,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,1,0,1738142702,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,1,0,1738142702,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,1,0,1738142702,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,1,0,1738142702,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,1,0,1738142702,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,1,0,1738142702,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,1,0,1738142702,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,1,0,1738142702,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,1,0,1738142702,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
+|4,39,1,0,1738142702,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
 -'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
 |4,39,1,0,1738142702,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\.gitignore"
 -'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
@@ -52,6 +130,110 @@
 |4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
 -'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
 |4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  15  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,15,0,1738142618,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,1,0,1738142505,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,1,0,1738142505,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,1,0,1738142505,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,1,0,1738142505,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,1,0,1738142505,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,1,0,1738142505,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,1,0,1738142505,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,1,0,1738142505,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,1,0,1738142505,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,1,0,1738142505,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,1,0,1738142505,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,1,0,1738142505,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,1,0,1738142505,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,1,0,1738142505,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,1,0,1738142505,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,1,0,1738142505,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,1,0,1738142505,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,1,0,1738142505,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,1,0,1738142505,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,1,0,1738142505,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,1,0,1738142505,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,1,0,1738142505,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,1,0,1738142505,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
+-'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
+|4,39,1,0,1738142505,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
 -'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
 |4,39,1,0,1738142505,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
 -'  1  0  C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\Gemfile
@@ -62,6 +244,18 @@
 |4,39,1,0,1738142505,"C:\\Users\\joris\\Desktop\\School\\dev\\blog\\joploljojo3.github.io\\Gemfile"
 
 # History of marks within files (newest to oldest):
+
+> C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\index.markdown
+	*	1738230660	0
+	"	3	0
+
+> C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\index.html
+	*	1738230640	0
+	"	1	0
+
+> C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\test.txt
+	*	1738230429	0
+	"	1	0
 
 > C:\Users\joris\Desktop\School\dev\blog\joploljojo3.github.io\.gitignore
 	*	1738142711	0
