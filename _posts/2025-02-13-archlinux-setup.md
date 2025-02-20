@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Arch linux installation"
-date:   2025-01-30 10:54:08 +0100
+date:   2025-02-13 14:34:00 +0100
 categories: jekyll update
 ---
 
